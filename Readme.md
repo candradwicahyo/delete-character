@@ -33,4 +33,4 @@ git clone https://github.com/candradwicahyo/delete-character.git
 
 ![preview](https://github.com/candradwicahyo/delete-character/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/delete-character)
+[tekan link ini](https://candradwicahyo.github.io/delete-character) untuk mencoba demo
